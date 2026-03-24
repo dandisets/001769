@@ -8,15 +8,23 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 417
+  numberOfFiles: 2
   schemaKey: AssetsSummary
-citation: Gunalan, Kabilar (2026) NIH BRAIN CONNECTS - LINC UM1 - Human Data - Scratch
-  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001769/draft
+  species: []
+  variableMeasured: []
+citation: NIH BRAIN CONNECTS - LINC UM1 - Human Data - Scratch (2026). (Version draft)
+  [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001769/draft
 contributor:
 - affiliation: []
-  email: kabilar@datajoint.com
-  includeInCitation: true
+  email: kabi@mit.edu
+  includeInCitation: false
   name: Gunalan, Kabilar
   roleName:
   - dcite:ContactPerson
