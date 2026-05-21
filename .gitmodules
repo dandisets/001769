@@ -1,4 +1,0 @@
-[submodule "sourcedata/raw/sub-I71/micr/sub-I71_sample-leftHemi-overview_XPCT.ome.zarr"]
-	path = sourcedata/raw/sub-I71/micr/sub-I71_sample-leftHemi-overview_XPCT.ome.zarr
-	url = https://github.com/dandizarrs/0b405e4b-110f-4258-9938-579393e4046a
-	datalad-id = a905436e-3b1e-4315-bef9-728ed29919c5
