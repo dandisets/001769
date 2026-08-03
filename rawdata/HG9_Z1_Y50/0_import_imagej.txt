@@ -1,0 +1,17 @@
+To import the stack in ImageJ, use following procedure.
+
+- Drag & drop the .prd file into the ImageJ window or select File -> Import -> Raw...
+- In the 'Import' dialog, set the following:
+-- Image type: '16-bit Unsigned'
+-- Width: 1000 pixels
+-- Height: 400 pixels
+-- Offset to first image: 8272 bytes
+-- Number of images: 2661
+   (it is max. configured value, ImageJ loads all available)
+-- Gap between images: 6896 bytes
+-- White is zero: Unchecked
+-- Little-endian byte order: checked
+-- Open all files in folder: possibly checked
+   (caution with huge stacks, ImageJ loads all data to RAM)
+-- Use virtual stack: keep unchecked
+   (check only when importing a single huge file to avoid RAM caching)

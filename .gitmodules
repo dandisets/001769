@@ -1,0 +1,56 @@
+[submodule "derivatives/hipct_patch_I74_VOI-1_bm05/hipct_pred.ome.zarr"]
+	path = derivatives/hipct_patch_I74_VOI-1_bm05/hipct_pred.ome.zarr
+	url = https://github.com/dandizarrs/b787347b-3a65-4904-83eb-1faad4110ad7
+	datalad-id = bb2b1427-2a77-410c-bc20-7f644c517e9f
+[submodule "derivatives/hipct_patch_I74_VOI-1_bm05/hipct_input.ome.zarr"]
+	path = derivatives/hipct_patch_I74_VOI-1_bm05/hipct_input.ome.zarr
+	url = https://github.com/dandizarrs/748c1a6b-3550-4e4a-b7a3-b2366cb36d17
+	datalad-id = 14935a1f-6447-4867-8446-daa2f9c1015c
+[submodule "derivatives/hipct_patch_I74_VOI-1_bm05/hipct_pred_class.ome.zarr"]
+	path = derivatives/hipct_patch_I74_VOI-1_bm05/hipct_pred_class.ome.zarr
+	url = https://github.com/dandizarrs/abdaee6b-3d08-4646-8aed-ca77e86baed2
+	datalad-id = cf312236-61af-436d-b70e-7872156daa7d
+[submodule "derivatives/hipct_patch_I74_VOI-1_bm05/hipct_pred_prob.ome.zarr"]
+	path = derivatives/hipct_patch_I74_VOI-1_bm05/hipct_pred_prob.ome.zarr
+	url = https://github.com/dandizarrs/ee006416-64d6-4646-959c-d2137e847a06
+	datalad-id = 2ac08e13-6c08-420d-9c7c-611b0983009c
+[submodule "derivatives/sub-Hb1_sample-lhicp1p1t9_desc-v2bestpctinv/sub-Hb1_sample-lhicp1p1t9_label-axon_probseg.ome.zarr"]
+	path = derivatives/sub-Hb1_sample-lhicp1p1t9_desc-v2bestpctinv/sub-Hb1_sample-lhicp1p1t9_label-axon_probseg.ome.zarr
+	url = https://github.com/dandizarrs/e26391d7-a879-40bf-86e7-da735774666a
+	datalad-id = ca205a68-78a5-476b-8786-fa9499146d1c
+[submodule "derivatives/sub-Hb1_sample-lhicp1p1t9_desc-v2bestpctinv/sub-Hb1_sample-lhicp1p1t9_desc-input_micr.ome.zarr"]
+	path = derivatives/sub-Hb1_sample-lhicp1p1t9_desc-v2bestpctinv/sub-Hb1_sample-lhicp1p1t9_desc-input_micr.ome.zarr
+	url = https://github.com/dandizarrs/db648486-a3b0-4e68-a48a-ac36566c08ed
+	datalad-id = 019418ae-6db7-43b6-a43b-2870011f84fc
+[submodule "derivatives/sub-Hb1_sample-lhicp1p1t9_desc-v2bestpctinv/sub-Hb1_sample-lhicp1p1t9_desc-shellinterior_dseg.ome.zarr"]
+	path = derivatives/sub-Hb1_sample-lhicp1p1t9_desc-v2bestpctinv/sub-Hb1_sample-lhicp1p1t9_desc-shellinterior_dseg.ome.zarr
+	url = https://github.com/dandizarrs/fb734e1f-682b-4293-a37c-9195c371cd03
+	datalad-id = 924dff2d-4de1-44d9-a2ad-724fa098a66b
+[submodule "derivatives/sub-Hb1_sample-lhicp1p1t9_desc-v2bestpctinv/sub-Hb1_sample-lhicp1p1t9_label-axon_mask.ome.zarr"]
+	path = derivatives/sub-Hb1_sample-lhicp1p1t9_desc-v2bestpctinv/sub-Hb1_sample-lhicp1p1t9_label-axon_mask.ome.zarr
+	url = https://github.com/dandizarrs/7f22bb0c-bee5-46c0-b974-4171e2ea5343
+	datalad-id = fb19eeb5-61db-41ca-88b0-7fa662ba1750
+[submodule "derivatives/hipct_patch_I74_VOI-1_bm05_desc-t080otsugate/hipct_input.ome.zarr"]
+	path = derivatives/hipct_patch_I74_VOI-1_bm05_desc-t080otsugate/hipct_input.ome.zarr
+	url = https://github.com/dandizarrs/e7dc64e5-ecd6-48cc-a151-b7327b55bdb2
+	datalad-id = 9c9504c9-a4a9-4719-a9c1-b3fc54d32404
+[submodule "derivatives/hipct_patch_I74_VOI-1_bm05_desc-t080otsugate/hipct_pred.ome.zarr"]
+	path = derivatives/hipct_patch_I74_VOI-1_bm05_desc-t080otsugate/hipct_pred.ome.zarr
+	url = https://github.com/dandizarrs/ad8f1eb1-f39d-4d13-80a9-3e62bb357daa
+	datalad-id = ecb700b7-28c3-4f27-99b5-0c19adb45349
+[submodule "derivatives/hipct_patch_I74_VOI-1_bm05_desc-t080otsugate/hipct_pred_class.ome.zarr"]
+	path = derivatives/hipct_patch_I74_VOI-1_bm05_desc-t080otsugate/hipct_pred_class.ome.zarr
+	url = https://github.com/dandizarrs/92b0abb4-2e0a-4a46-9bd8-17059e298e10
+	datalad-id = 66103e99-d995-4666-8117-37aef2f1a65e
+[submodule "derivatives/hipct_patch_I74_VOI-1_bm05_desc-t080otsugate/hipct_pred_prob.ome.zarr"]
+	path = derivatives/hipct_patch_I74_VOI-1_bm05_desc-t080otsugate/hipct_pred_prob.ome.zarr
+	url = https://github.com/dandizarrs/d9d37986-3202-4461-8957-8a0b3fe4b47a
+	datalad-id = d17d1071-a43e-40e2-9fce-62aaa237080f
+[submodule "derivatives/sub-Hb1/dwi/sub-Hb1_sample-LeftHemi_atlas-BGPathwaysMaffei2026_space-orig_label-SubcorcticalNuclei_dseg.precomputed.not.a.zarr"]
+	path = derivatives/sub-Hb1/dwi/sub-Hb1_sample-LeftHemi_atlas-BGPathwaysMaffei2026_space-orig_label-SubcorcticalNuclei_dseg.precomputed.not.a.zarr
+	url = https://github.com/dandizarrs/384e4589-058b-41a8-9208-21fe8761a852
+	datalad-id = 624881ed-13c8-49db-9176-438054f7d7ee
+[submodule "derivatives/sub-Hb1/dwi/sub-Hb1_sample-LeftHemi_atlas-BGPathwaysMaffei2026_space-orig_track-ifod_tractogram.precomputed.not.a.zarr"]
+	path = derivatives/sub-Hb1/dwi/sub-Hb1_sample-LeftHemi_atlas-BGPathwaysMaffei2026_space-orig_track-ifod_tractogram.precomputed.not.a.zarr
+	url = https://github.com/dandizarrs/4a70fc5c-e6fb-4c13-a44e-fe5bebeea0ac
+	datalad-id = 01d3254e-819b-4371-806b-00ef18b0c09f
