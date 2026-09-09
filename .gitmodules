@@ -54,3 +54,19 @@
 	path = derivatives/sub-Hb1/dwi/sub-Hb1_sample-LeftHemi_atlas-BGPathwaysMaffei2026_space-orig_track-ifod_tractogram.precomputed.not.a.zarr
 	url = https://github.com/dandizarrs/4a70fc5c-e6fb-4c13-a44e-fe5bebeea0ac
 	datalad-id = 01d3254e-819b-4371-806b-00ef18b0c09f
+[submodule "derivatives/sub-I65/stitched/sub-I65_sample-slice002_acq-660.ome.zarr"]
+	path = derivatives/sub-I65/stitched/sub-I65_sample-slice002_acq-660.ome.zarr
+	url = https://github.com/dandizarrs/be796287-413f-4faa-8943-8f8ecf45e269
+	datalad-id = e240712d-33ec-4ee4-8dc1-eaa61bb8c794
+[submodule "derivatives/sub-I65/stitched/sub-I65_sample-slice002_acq-561.ome.zarr"]
+	path = derivatives/sub-I65/stitched/sub-I65_sample-slice002_acq-561.ome.zarr
+	url = https://github.com/dandizarrs/39317157-6bd1-46f6-bc32-177fdf5ce005
+	datalad-id = e56a5ac9-e6ed-473b-b8aa-6251273b007f
+[submodule "derivatives/sub-I65/stitched/sub-I65_sample-slice002_acq-594.ome.zarr"]
+	path = derivatives/sub-I65/stitched/sub-I65_sample-slice002_acq-594.ome.zarr
+	url = https://github.com/dandizarrs/b226e812-6a18-40f3-a82e-b4180acb717e
+	datalad-id = 13df56eb-cc7b-46d4-82f8-5c830a854ba6
+[submodule "derivatives/sub-I65/stitched/sub-I65_sample-slice002_acq-488.ome.zarr"]
+	path = derivatives/sub-I65/stitched/sub-I65_sample-slice002_acq-488.ome.zarr
+	url = https://github.com/dandizarrs/c5d841ed-2efd-47ec-a774-336cdebececa
+	datalad-id = aacfbd1e-0b24-47fb-b767-b2ab537ce4a1
