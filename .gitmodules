@@ -1558,3 +1558,15 @@
 	path = rawdata/sub-I65/strips_raw/sub-I65_sample-slice03_chunk-0046_acq-camera-02.ome.zarr
 	url = https://github.com/dandizarrs/0f8cac7a-059f-4de2-a992-537e43969731
 	datalad-id = b8ed9cf6-c19d-49f2-81a7-9c74fdd4b5b5
+[submodule "rawdata/sub-I65/strips_raw/sub-I65_sample-slice03_chunk-0047_acq-camera-01.ome.zarr"]
+	path = rawdata/sub-I65/strips_raw/sub-I65_sample-slice03_chunk-0047_acq-camera-01.ome.zarr
+	url = https://github.com/dandizarrs/d44b47e8-c56a-4251-bf15-2eab076e6799
+	datalad-id = b9b19dec-dfa5-4a0b-a55f-dff852bcc21b
+[submodule "rawdata/sub-I65/strips_raw/sub-I65_sample-slice03_chunk-0047_acq-camera-02.ome.zarr"]
+	path = rawdata/sub-I65/strips_raw/sub-I65_sample-slice03_chunk-0047_acq-camera-02.ome.zarr
+	url = https://github.com/dandizarrs/9933ea38-7c62-4159-9c17-670643d5eb7e
+	datalad-id = d150fb9a-2b45-4e51-b934-acc4418f8376
+[submodule "rawdata/sub-I65/strips_raw/sub-I65_sample-slice03_chunk-0048_acq-camera-01.ome.zarr"]
+	path = rawdata/sub-I65/strips_raw/sub-I65_sample-slice03_chunk-0048_acq-camera-01.ome.zarr
+	url = https://github.com/dandizarrs/c9ec149b-7aef-44a7-b8e5-b0baca0228fd
+	datalad-id = 7c847ac7-013f-4480-93f5-5007a304b2a1
