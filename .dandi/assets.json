@@ -6344,7 +6344,7 @@ null
 "blobDateModified":
 "2026-09-16T11:04:15.611217-04:00",
 "contentSize":
-0,
+475088060900,
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/a0bc8198-71ac-42b0-bafb-33ffedcac191/download/",
@@ -6355,7 +6355,7 @@ null
 "digest":
 {
 "dandi:dandi-zarr-checksum":
-null
+"a0ecb22c9ebf1fddad8b28c08e1fff48-11361--475088060900"
 },
 "encodingFormat":
 "application/x-zarr",
@@ -6403,11 +6403,11 @@ null
 ]
 },
 "modified":
-"2026-09-17T14:31:27.345646Z",
+"2026-09-17T19:03:04.638979Z",
 "path":
 "derivatives/sub-I65/stitched/sub-I65_sample-slice003_acq-561.ome.zarr",
 "size":
-0,
+475088060900,
 "zarr":
 "a412c879-dcc4-4544-8ad2-2c61127c06f1"
 },
