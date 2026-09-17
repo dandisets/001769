@@ -6166,7 +6166,7 @@
 "blobDateModified":
 "2026-09-16T05:10:45.518943-04:00",
 "contentSize":
-0,
+576593814064,
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/f3f672e5-6604-4bd4-8ecc-0cc5a3f7fe75/download/",
@@ -6177,7 +6177,7 @@
 "digest":
 {
 "dandi:dandi-zarr-checksum":
-null
+"1039bb365d7d596399bd7d02fae65770-11361--576593814064"
 },
 "encodingFormat":
 "application/x-zarr",
@@ -6225,11 +6225,11 @@ null
 ]
 },
 "modified":
-"2026-09-17T14:31:27.479819Z",
+"2026-09-17T19:45:26.626965Z",
 "path":
 "derivatives/sub-I65/stitched/sub-I65_sample-slice003_acq-488.ome.zarr",
 "size":
-0,
+576593814064,
 "zarr":
 "ae0a40eb-0bb6-45e1-9ccf-88ea22c64f30"
 },
@@ -6700,7 +6700,7 @@ null
 "blobDateModified":
 "2026-09-17T02:40:33.432966-04:00",
 "contentSize":
-0,
+547513109052,
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/assets/ec488eda-d7d7-4a1a-9f48-b79cc9dc862d/download/",
@@ -6711,7 +6711,7 @@ null
 "digest":
 {
 "dandi:dandi-zarr-checksum":
-null
+"57802cdcef5e80af8f4931e8908e104f-12657--547513109052"
 },
 "encodingFormat":
 "application/x-zarr",
@@ -6759,11 +6759,11 @@ null
 ]
 },
 "modified":
-"2026-09-17T14:31:27.566569Z",
+"2026-09-17T19:38:00.648937Z",
 "path":
 "derivatives/sub-I65/stitched/sub-I65_sample-slice003_acq-660.ome.zarr",
 "size":
-0,
+547513109052,
 "zarr":
 "a04cfa91-ac9f-4c66-87a8-c58f3063ce73"
 },
