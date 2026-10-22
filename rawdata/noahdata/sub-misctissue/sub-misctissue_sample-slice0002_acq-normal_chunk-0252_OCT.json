@@ -1,0 +1,61 @@
+{
+  "Manufacturer": "Custom",
+  "ManufacturersModelName": "Custom",
+  "StationName": "Human Swept-Source PSOCT System",
+  "InstitutionName": "Martinos Biomedical Imaging Center",
+  "SliceThickness": 0.5,
+  "PixelSize": [
+    0.01,
+    0.01
+  ],
+  "PixelSizeUnits": "mm",
+  "BodyPart": "BRAIN",
+  "BodyPartDetails": "some sort of tissue",
+  "SampleEnvironment": "ex vivo",
+  "SampleEmbedding": "agarose",
+  "SampleFixation": "mineral oil",
+  "TissueDeformationScaling": 100,
+  "ChunkTransformationMatrix": [
+    [
+      1,
+      0,
+      30.8
+    ],
+    [
+      0,
+      1,
+      56.0
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ],
+  "ChunkTransformationMatrixAxis": [
+    "X",
+    "Y"
+  ],
+  "ImageAcquisitionProtocol": "data was acquired using a 1310nm swept-source OCT system with polarization sensitivity; acquisition was performed in a snake-by-columns pattern ordered up-right; acquisition was performed with a 2.8mm step size in X direction and 2.8mm step size in Y direction",
+  "AcquisitionParameters": {
+    "CentralWavelength": "1310 nm",
+    "XStepSize": "2.8 mm",
+    "YStepSize": "2.8 mm",
+    "ZStepSize": "n/a",
+    "XPixelNumber": 350,
+    "YPixelNumber": 350,
+    "ZPixelNumber": 1152,
+    "MechanicalTilt": "0 degrees",
+    "GridOrder": "up-right",
+    "GridType": "snake-by-columns",
+    "GridNumRows": 21,
+    "GridNumCols": 19,
+    "ChunkNumber": 252,
+    "ColNumber": 12,
+    "RowNumber": 21,
+    "Acquisition": "normal",
+    "SliceNumber": 2,
+    "SampleEmbeddingRefractiveIndex": 1.42
+  },
+  "OtherAcquisitionParameters": "Array order is [spectral sample (1152, k-space), A-line (2 x 350: channel 1 co-polarization, then channel 2 cross-polarization; fast axis, X), B-scan (350; slow axis, Y)]"
+}
