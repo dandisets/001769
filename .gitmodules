@@ -7902,3 +7902,7 @@
 	path = derivatives/sub-Ha1/dwi/sub-Ha1_sample-RightHemi_atlas-BGPathwaysMaffei2026_space-orig_label-SubcorcticalNuclei_dseg_labels.precomputed.not.a.zarr
 	url = https://github.com/dandizarrs/55f4897e-958d-4f45-a476-ca1ca56892c9
 	datalad-id = 3e127bd8-0931-4b26-bc09-0435904fe16c
+[submodule "rawdata/noahdata/sub-MF284_sample-slice001_chunk-0001_acq-camera-01.ome.zarr"]
+	path = rawdata/noahdata/sub-MF284_sample-slice001_chunk-0001_acq-camera-01.ome.zarr
+	url = https://github.com/dandizarrs/cc1c1d6d-611f-4272-8b72-e9a69ccb3a2a
+	datalad-id = fb48b7d3-8fa4-4b65-bbe5-0bb7719907d1
