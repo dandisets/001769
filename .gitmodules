@@ -7906,7 +7906,3 @@
 	path = rawdata/noahdata/sub-MF284_sample-slice001_chunk-0001_acq-camera-01.ome.zarr
 	url = https://github.com/dandizarrs/cc1c1d6d-611f-4272-8b72-e9a69ccb3a2a
 	datalad-id = fb48b7d3-8fa4-4b65-bbe5-0bb7719907d1
-[submodule "rawdata/noahdata/test_ngff.ome.zarr"]
-	path = rawdata/noahdata/test_ngff.ome.zarr
-	url = https://github.com/dandizarrs/b619a43b-216c-4527-9326-ae25061757cf
-	datalad-id = e47c959c-c967-43a3-bd5d-80eb9ace0886
