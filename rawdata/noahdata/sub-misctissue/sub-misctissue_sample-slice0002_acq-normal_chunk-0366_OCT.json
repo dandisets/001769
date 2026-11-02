@@ -19,12 +19,12 @@
     [
       1,
       0,
-      47.6
+      22.4
     ],
     [
       0,
       1,
-      22.4
+      47.6
     ],
     [
       0,
@@ -36,7 +36,7 @@
     "X",
     "Y"
   ],
-  "ImageAcquisitionProtocol": "data was acquired using a 1310nm swept-source OCT system with polarization sensitivity; acquisition was performed in a snake-by-columns pattern ordered up-right; acquisition was performed with a 2.8mm step size in X direction and 2.8mm step size in Y direction",
+  "ImageAcquisitionProtocol": "data was acquired using a 1310nm swept-source OCT system with polarization sensitivity; acquisition was performed in a snake-by-rows pattern ordered left-down; acquisition was performed with a 2.8mm step size in X direction and 2.8mm step size in Y direction; tissue imaged was still on the tissue block and not sliced until after acquisition",
   "AcquisitionParameters": {
     "CentralWavelength": "1310 nm",
     "XStepSize": "2.8 mm",
@@ -46,13 +46,13 @@
     "YPixelNumber": 350,
     "ZPixelNumber": 1152,
     "MechanicalTilt": "0 degrees",
-    "GridOrder": "up-right",
-    "GridType": "snake-by-columns",
-    "GridNumRows": 21,
-    "GridNumCols": 19,
+    "GridOrder": "left-down",
+    "GridType": "snake-by-rows",
+    "GridNumRows": 19,
+    "GridNumCols": 21,
     "ChunkNumber": 366,
-    "ColNumber": 18,
-    "RowNumber": 9,
+    "ColNumber": 9,
+    "RowNumber": 18,
     "Acquisition": "normal",
     "SliceNumber": 2,
     "SampleEmbeddingRefractiveIndex": 1.42
