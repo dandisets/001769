@@ -8322,3 +8322,55 @@
 	path = rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y3.ome.zarr
 	url = https://github.com/dandizarrs/a259f7a5-cbfc-44f7-9369-087f0fc14abf
 	datalad-id = a3da7143-8032-46c1-b3c4-c0fb607b1a30
+[submodule "rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y4.ome.zarr"]
+	path = rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y4.ome.zarr
+	url = https://github.com/dandizarrs/3dd830e0-f2f0-4810-9e11-93518490ea27
+	datalad-id = c40ef6c3-b63e-47ed-8f77-776fb703710e
+[submodule "rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y5.ome.zarr"]
+	path = rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y5.ome.zarr
+	url = https://github.com/dandizarrs/934ceee5-1007-46a2-83cc-6d2126502919
+	datalad-id = dfaf1162-4f79-478f-8d94-b8aa6e9c0950
+[submodule "rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y6.ome.zarr"]
+	path = rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y6.ome.zarr
+	url = https://github.com/dandizarrs/ca8d45b3-b3d7-4fb4-ba1a-88eca942f9b7
+	datalad-id = 60259031-d617-4c8c-b85f-1a1226571bc1
+[submodule "rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y7.ome.zarr"]
+	path = rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y7.ome.zarr
+	url = https://github.com/dandizarrs/b5a2e2c0-1756-42a2-b799-651ee6094fe7
+	datalad-id = 8c8e6f61-7087-4c43-93cf-6108433d0652
+[submodule "rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y8.ome.zarr"]
+	path = rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y8.ome.zarr
+	url = https://github.com/dandizarrs/c9711ace-2e58-4e6e-9ce8-071a4b1209b8
+	datalad-id = 666be2b9-eee8-41c7-b8ff-5fb92a00898a
+[submodule "rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y9.ome.zarr"]
+	path = rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y9.ome.zarr
+	url = https://github.com/dandizarrs/29cff7a0-9569-44ab-9aa1-933ff55ce4be
+	datalad-id = fbd5a324-2d1e-4fa4-b5ed-66484b45c626
+[submodule "rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y10.ome.zarr"]
+	path = rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y10.ome.zarr
+	url = https://github.com/dandizarrs/a1105707-c478-47c8-ad35-04305abdd6c7
+	datalad-id = 39bcd349-6492-489c-ab1d-e78741793227
+[submodule "rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y11.ome.zarr"]
+	path = rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y11.ome.zarr
+	url = https://github.com/dandizarrs/b2bf16e9-89f0-4e70-9e50-9eb60b6185a5
+	datalad-id = 4a787383-908b-4310-85e2-6cb275e09783
+[submodule "rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y12.ome.zarr"]
+	path = rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y12.ome.zarr
+	url = https://github.com/dandizarrs/fc202a42-67e0-490a-8920-dbefa9960cb9
+	datalad-id = 4d82ebb1-41d1-4e80-913b-37d77d1cd689
+[submodule "rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y13.ome.zarr"]
+	path = rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y13.ome.zarr
+	url = https://github.com/dandizarrs/c6d1b412-fa36-4882-9f92-8e352007fecb
+	datalad-id = 73430554-c7e6-4f85-a3a5-d60e5d4220cd
+[submodule "rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y14.ome.zarr"]
+	path = rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y14.ome.zarr
+	url = https://github.com/dandizarrs/e8411ecf-1ecf-4a3c-ac34-f576b2d09df8
+	datalad-id = 101cec64-a0d6-48d4-af57-cc60b81d64d5
+[submodule "rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y15.ome.zarr"]
+	path = rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y15.ome.zarr
+	url = https://github.com/dandizarrs/ae0cecdf-bf44-498a-a72b-b0b46c7a9bcc
+	datalad-id = 7db21c5a-2eb8-4de5-bffa-20c897695675
+[submodule "rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y16.ome.zarr"]
+	path = rawdata/sub-I80/slice26/sub-I80_slice26_Z1_Y16.ome.zarr
+	url = https://github.com/dandizarrs/cbf9c0b6-0227-4342-926b-9f22c8174619
+	datalad-id = 262ad399-5696-4cef-a92b-f65cf54fa8fb
