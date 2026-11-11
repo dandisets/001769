@@ -8262,3 +8262,31 @@
 	path = rawdata/sub-I80/slice15/sub-I80_slice15_Z1_Y90.ome.zarr
 	url = https://github.com/dandizarrs/72e7d651-2acb-4ad6-8e07-89e2f39e59f1
 	datalad-id = 0e831d33-91b8-444d-809a-5c5eb4f2f275
+[submodule "rawdata/sub-I80/slice15/sub-I80_slice15_Z1_Y91.ome.zarr"]
+	path = rawdata/sub-I80/slice15/sub-I80_slice15_Z1_Y91.ome.zarr
+	url = https://github.com/dandizarrs/97f2c64a-8a55-46bb-8a91-2c3bdcad71ae
+	datalad-id = 79b008b5-1f1b-4011-932f-07c54a0f6905
+[submodule "rawdata/sub-I80/slice15/sub-I80_slice15_Z1_Y92.ome.zarr"]
+	path = rawdata/sub-I80/slice15/sub-I80_slice15_Z1_Y92.ome.zarr
+	url = https://github.com/dandizarrs/d567d19e-b6f7-46eb-8fd1-b7a8dc374a83
+	datalad-id = fba3d786-a9f6-4eac-88d5-c40b9bb31dcf
+[submodule "rawdata/sub-I80/slice15/sub-I80_slice15_Z1_Y93.ome.zarr"]
+	path = rawdata/sub-I80/slice15/sub-I80_slice15_Z1_Y93.ome.zarr
+	url = https://github.com/dandizarrs/4078f91d-78af-4cd8-ae85-1c1e63de1240
+	datalad-id = 2a7856bf-ea07-4df5-a99b-6c035eb88f73
+[submodule "rawdata/sub-I80/slice15/sub-I80_slice15_Z1_Y94.ome.zarr"]
+	path = rawdata/sub-I80/slice15/sub-I80_slice15_Z1_Y94.ome.zarr
+	url = https://github.com/dandizarrs/4e679f9c-caae-4157-b74b-74dd6bf7aa37
+	datalad-id = ff84cb5b-b05e-4ecc-b04a-ee4cd9f08dea
+[submodule "rawdata/sub-I80/slice15/sub-I80_slice15_Z1_Y95.ome.zarr"]
+	path = rawdata/sub-I80/slice15/sub-I80_slice15_Z1_Y95.ome.zarr
+	url = https://github.com/dandizarrs/bf95bd67-11d7-481f-9e98-7144c7072195
+	datalad-id = b5f1e288-a640-43ee-9242-07d0cf2902b5
+[submodule "rawdata/sub-I80/slice15/sub-I80_slice15_Z1_Y96.ome.zarr"]
+	path = rawdata/sub-I80/slice15/sub-I80_slice15_Z1_Y96.ome.zarr
+	url = https://github.com/dandizarrs/b65628a9-5d39-44c4-8741-7c5ed53701ce
+	datalad-id = 6e03b6bb-78ac-4fbe-89f7-75cfd45da4ed
+[submodule "rawdata/sub-I80/slice15/sub-I80_slice15_Z1_Y97.ome.zarr"]
+	path = rawdata/sub-I80/slice15/sub-I80_slice15_Z1_Y97.ome.zarr
+	url = https://github.com/dandizarrs/33250e6b-1d4d-43bf-91db-80f285a50ed5
+	datalad-id = e78470f2-1084-4a64-8ff3-045d2479b1af
